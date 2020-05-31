@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/frank/fc-jvm/fc'
+let g:netrw_dirhist_2='/home/frank/fc-jvm/fc/src'
+let g:netrw_dirhist_3='/home/frank/fc-jvm/fc/src/main'
+let g:netrw_dirhist_4='/home/frank/fc-jvm/fc/src/main/java'
+let g:netrw_dirhist_5='/home/frank/fc-jvm/fc/src/main/java/fc'
